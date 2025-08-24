@@ -3,8 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Anielle Carla de Oliveira.
+- Matricula: 1491162.
 
 ## Print da tela da página criada (Curriculum Vitae)
 
